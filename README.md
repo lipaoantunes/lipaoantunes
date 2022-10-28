@@ -1,4 +1,4 @@
-## Olá, eu sou o Felipe Antunes. 
+## <center>Olá, eu sou o Felipe Antunes.</center> 
 Sejam Bem vindos ao meu GitHub !
 <div align="center">
   <a href="https://github.com/lipaoantunes">
