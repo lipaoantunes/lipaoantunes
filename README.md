@@ -1,4 +1,4 @@
-## Olá eu sou o Felipe Antunes !
+## Olá, eu sou o Felipe Antunes. Sejam Bem vindos ao meu GitHub !
 <div align="center">
   <a href="https://github.com/lipaoantunes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lipaoantunes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
