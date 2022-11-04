@@ -1,5 +1,5 @@
-## Olá, sejam bem-vindos ao meu GitHub ! 
-Me chamo Felipe Antunes, é estou ingressando nesse mundo da programação. 🧑🏾‍💻
+## Olá, sejam bem-vindos ao meu GitHub ! 🧑🏾‍💻
+
 
 <div align="center">
   <a href="https://github.com/lipaoantunes">
